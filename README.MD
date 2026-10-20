@@ -31,7 +31,7 @@ Welcome to my GitHub profile! I am a software enthusiast with strong foundationa
 
 ## 📬 Connect with Me
 
-- 📧 **Email:** [mohamadhaidir@graduate.utm.my](mailto:mohamadhaidir@graduate.utm.my) *(Replace with your actual email)*
+- 📧 **Email:** [mohamadhaidir@graduate.utm.my](mailto:mohamadhaidir@graduate.utm.my)
 - 🐙 **GitHub:** [Mohamad Haidir Bin Md Zamri](https://github.com)
 
 ---
